@@ -613,7 +613,7 @@ def run():
     ###### CODE FOR ABOUT PAGE ######
     elif choice == 'About':   
 
-        st.subheader("**About The Tool - AI RESUME ANALYZER**")
+        st.subheader("**About The Tool - KNOW YOUR RESUME RATING**")
 
         st.markdown('''
 
